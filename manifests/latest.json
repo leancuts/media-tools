@@ -1,20 +1,20 @@
 {
   "version": "1.0.0",
-  "updated": "2025-08-02T21:51:46.600Z",
+  "updated": "2025-08-03T00:47:00.000Z",
   "tools": {
     "ffmpeg": {
       "version": "6.0",
       "platforms": {
         "darwin-arm64": {
           "url": "https://github.com/leancuts/media-tools/releases/download/v1.0.0/ffmpeg-darwin-arm64.tar.gz",
-          "sha256": "a90e3db6a3fd35f6074b013f948b1aa45b31c6375489d39e572bea3f18336584",
-          "size": 45568216,
+          "sha256": "c89565c661240bb625d16f1312cfb5d07683eea4096f0abf45eabd7bf832d610",
+          "size": 19282292,
           "executable": "ffmpeg"
         },
         "win32-x64": {
           "url": "https://github.com/leancuts/media-tools/releases/download/v1.0.0/ffmpeg-win32-x64.zip",
-          "sha256": "32875c949654f65838b187cabd0350eb260a7f27c27454b76964b03db19200a2",
-          "size": 133853184,
+          "sha256": "0c5f3e2edd92c89b4c1bc0aef09e4d9fa9fe78dbe2e19f1ae9de7bc5b72a986a",
+          "size": 50848893,
           "executable": "ffmpeg.exe"
         }
       }
@@ -24,14 +24,14 @@
       "platforms": {
         "darwin-arm64": {
           "url": "https://github.com/leancuts/media-tools/releases/download/v1.0.0/imagemagick-darwin-arm64.tar.gz",
-          "sha256": "3ad6390ce9a0098817c831ac7709c2cf1f4dd50e0407e5a40bf771836d6f452d",
-          "size": 69952,
+          "sha256": "6da83f79a48b4569de206507fde077d5eb095d662cc60ed1464dd8ca3df0875e",
+          "size": 2970,
           "executable": "magick"
         },
         "win32-x64": {
           "url": "https://github.com/leancuts/media-tools/releases/download/v1.0.0/imagemagick-win32-x64.zip",
-          "sha256": "fef4ce8073ef4cdc168f82fc6fecb9c667f6019f29ba41a352e5d08acb2ef282",
-          "size": 23206400,
+          "sha256": "025c11011fc33570b51e8c12843b97102e10a1be22b9318d77570dc2a5c145ff",
+          "size": 9694742,
           "executable": "magick.exe"
         }
       }
@@ -41,14 +41,14 @@
       "platforms": {
         "darwin-arm64": {
           "url": "https://github.com/leancuts/media-tools/releases/download/v1.0.0/exiftool-darwin-arm64.tar.gz",
-          "sha256": "0cf8e4186d54aeea8ad81eecac29f443ac86fb1073c66ab6c399962e0224508a",
-          "size": 106,
+          "sha256": "f58bc037b07721099247d918e9d4ba470033d37e2afde58b03f66e1ccb0cb42c",
+          "size": 7998246,
           "executable": "exiftool"
         },
         "win32-x64": {
           "url": "https://github.com/leancuts/media-tools/releases/download/v1.0.0/exiftool-win32-x64.zip",
-          "sha256": "994d17caf205e3e4494972867cfba3e9165cfa35924b7b4aaf012e9282c89173",
-          "size": 83,
+          "sha256": "fe921fc2d0b4b3828dbcc95aecdc7033f667722658b52a952c75ad19d389974b",
+          "size": 8448164,
           "executable": "exiftool.bat"
         }
       }
