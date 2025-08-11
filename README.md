@@ -5,6 +5,7 @@ This repository serves as a CDN for pre-compiled binaries of some tools commonly
 - **FFmpeg** - Video/audio processing - https://github.com/FFmpeg/FFmpeg
 - **ImageMagick** - Image manipulation - https://github.com/ImageMagick/ImageMagick
 - **ExifTool** - Metadata extraction - https://github.com/exiftool/exiftool
+- **yt-dlp** - Video downloader - https://github.com/yt-dlp/yt-dlp
 
 # Binary Distribution Notice
 

@@ -5,3 +5,5 @@ binaries/**/magick filter=lfs diff=lfs merge=lfs -text
 *.tar.xz filter=lfs diff=lfs merge=lfs -text
 *.tar.gz filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
+binaries/darwin-arm64/yt-dlp filter=lfs diff=lfs merge=lfs -text
+binaries/win32-x64/yt-dlp.exe filter=lfs diff=lfs merge=lfs -text
